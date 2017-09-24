@@ -28,7 +28,7 @@
     "title": "My Blog",
     "description": "This is a test description.",
     "logo": "",
-    "cover": "",
+    "cover": "http://eskipaper.com/images/sunset-tropical-beach-1.jpg",
     "delay": "",
     "postsPerPage": "",
     "googleAnalytics": "",
