@@ -25,10 +25,10 @@
     ]
   },
   "site": {
-    "title": "My Blog",
-    "description": "This is a test description.",
+    "title": "Colin Mason",
+    "description": "Writeups and other ramblings.",
     "logo": "",
-    "cover": "http://eskipaper.com/images/sunset-tropical-beach-1.jpg",
+    "cover": "",
     "delay": "",
     "postsPerPage": "",
     "googleAnalytics": "",
