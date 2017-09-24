@@ -9,10 +9,10 @@
     "name": "casper"
   },
   "urls": {
-    "site": "https://masonc15.github.io",
-    "hubpress": "https://masonc15.github.io",
-    "theme": "//masonc15.github.io/themes/casper",
-    "images": "https://masonc15.github.io/images"
+    "site": "http://colinmason.me",
+    "hubpress": "http://colinmason.me",
+    "theme": "//colinmason.me/themes/casper",
+    "images": "http://colinmason.me/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
