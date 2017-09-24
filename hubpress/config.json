@@ -2,7 +2,8 @@
   "meta": {
     "username": "masonc15",
     "repositoryName": "masonc15.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
     "name": "casper"
@@ -22,5 +23,27 @@
       null,
       null
     ]
+  },
+  "site": {
+    "title": "",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "com35@pitt.edu",
+    "github": "https://github.com/masonc15",
+    "twitter": "https://twitter.com/0xmason",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "https://www.linkedin.com/in/masonc15/",
+    "stackoverflow": ""
   }
 }
